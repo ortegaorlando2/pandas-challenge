@@ -1,3 +1,6 @@
 [submodule "pandas-challenge"]
 	path = pandas-challenge
 	url = https://github.com/ortegaorlando2/pandas-challenge.git
+[submodule "HeroesOfPymoli/pandas-challenge"]
+	path = HeroesOfPymoli/pandas-challenge
+	url = https://github.com/ortegaorlando2/pandas-challenge.git
